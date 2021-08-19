@@ -1,0 +1,2 @@
+The Machine Learning Models folder consists of a certain basic case studies which would demonstrate basic Machine Learning algorithms.
+These algorithms fall under the Supervised and Unsupervised Learning categories respectively.

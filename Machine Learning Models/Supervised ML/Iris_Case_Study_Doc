@@ -1,0 +1,13 @@
+Iris Case study
+===============
+
+In this application we are using Iris data set which contains information about the flowers under Iris family.
+
+Supervised Machine Learning's Classification algorithm is utilised in predicting which category of Iris the given dimensions fall under.
+
+We are provided with the following information as known as features to determine the flower type:-
+1. Sepal length
+2. Sepal width
+3. Petal length
+4. Petal width
+

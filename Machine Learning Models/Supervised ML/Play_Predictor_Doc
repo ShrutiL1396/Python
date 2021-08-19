@@ -1,0 +1,8 @@
+Play Predcitor
+==============
+
+This case study performs an attempt at predicting whether to play or not, based on the temperature and weather conditions (Features of the dataset). 
+
+The target variable here is "Play", with labels "Yes or No".
+
+For this case study KNN-K Nearest Neighbors will be utilised to perform the prediction.

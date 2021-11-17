@@ -1,0 +1,14 @@
+Column_Name,Data_Description,Data_Class,Data_Type,Domain
+Id,Customer Identification Number,Categorical,int,Positive integers
+Income,Income of the Customer,Continuous,int,Positive integers
+Age,Age of the Customer,Continuous,int,Positive integers
+Experience,Total Professional Experience in Years,Continuous,int,Positive integers
+Married/Single,Marital Status of the Customer,Categorical,string,"[single,married]"
+House_Ownership,Home Ownership Status of the Customer,Categorical,string,"3 String values [rented,owned,norent_noown]"
+Car_Ownership,Car Ownership Status of the Customer,Categorical,string,"[yes,no]"
+Profession,Occupation of the Customer,Categorical,string,51 String values
+City,City of Residence,Categorical,string,317 String values
+State,State of Residence,Categorical,string,29 String values
+Current_Job_Years,Current Job Experience in Years,Continuous,int,Positive integers
+Current_House_Years,Number of Years of Home Ownership,Continuous,int,Positive integers
+Risk_Flag,Indicates loan defeaulter risk,Categorical,int,"[0,1]"

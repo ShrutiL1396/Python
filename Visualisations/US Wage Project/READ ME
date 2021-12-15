@@ -1,0 +1,6 @@
+In this project, the US Prevailing Wage Program data from 2011-2020 is being assessed. 
+
+To understand what information this massive dataset is portraying, we have first cleaned the individual excel files dedicated to each year and combined the 
+common features of those files and created single dataset for better comparison.
+
+The visuals are created in this project using Matplotlib, Seaborn and Plotly.

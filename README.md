@@ -36,6 +36,10 @@ pip install plotly
 pip install -U scikit-learn
 ```
 
+## Contents
+[Machine Learning Models](https://github.com/ShrutiL1396/Python/tree/main/Machine%20Learning%20Models) <br/>
+[Visualisations](https://github.com/ShrutiL1396/Python/tree/main/Visualisations)
+
 ## Contact
 Shruti Shivaji Lanke - <br/>
 shrutilanke13@gmail.com or slanke1@student.gsu.edu <br/>

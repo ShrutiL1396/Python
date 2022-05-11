@@ -1,7 +1,6 @@
 <h1 align="center">Python Projects</h1>
 
-Python is an indispensible tool which is often used to perform initial data cleaning, data wrangling to gather insights from data and to eventually build machine learning
-models. This repository exploring various aspects of python for data analytics and machine learning.
+Python is an indispensible tool which is often used to perform initial data cleaning, data wrangling to gather insights from data and to eventually build machine learning models. This repository exploring various aspects of python for data analytics and machine learning.
 
 ## Description
 There are various subdirectories under this repository which aim to demonstrate the the usage of python for Data pre-processing, Feature Engineering, Data Visualisation and Machine Learning.

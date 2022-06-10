@@ -1,4 +1,4 @@
-Readme for Behind The Mask Project
+Behind The Mask Project
 
 Prerequisites
 Code is intended to work with Python 3.6.x.
